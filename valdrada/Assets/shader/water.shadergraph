@@ -917,20 +917,6 @@
             },
             "m_InputSlot": {
                 "m_Node": {
-                    "m_Id": "baa119be44b643aab53f5aff17287059"
-                },
-                "m_SlotId": 0
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
-                    "m_Id": "913af545e23747828413367213bdb493"
-                },
-                "m_SlotId": 0
-            },
-            "m_InputSlot": {
-                "m_Node": {
                     "m_Id": "e39b1b9099d5459aabb69780eafcac79"
                 },
                 "m_SlotId": 0
@@ -1046,6 +1032,20 @@
                     "m_Id": "ee602065072842dbbca796b439c79b5f"
                 },
                 "m_SlotId": 2
+            }
+        },
+        {
+            "m_OutputSlot": {
+                "m_Node": {
+                    "m_Id": "bd742e215cdf41fea7ba89c8e46390be"
+                },
+                "m_SlotId": 2
+            },
+            "m_InputSlot": {
+                "m_Node": {
+                    "m_Id": "baa119be44b643aab53f5aff17287059"
+                },
+                "m_SlotId": 0
             }
         },
         {
@@ -4037,6 +4037,9 @@
             "m_Id": "e619995afcd34ba186ce07331c0d32c8"
         },
         {
+            "m_Id": "733502f65c3c48a4878d9f166a4a235a"
+        },
+        {
             "m_Id": "2a07797f80d5442ca310357ea7c8097d"
         }
     ],
@@ -4050,11 +4053,13 @@
     "m_SerializedSubGraph": "{\n    \"subGraph\": {\n        \"fileID\": -5475051401550479605,\n        \"guid\": \"d60a8be983c79f8448be30508af73569\",\n        \"type\": 3\n    }\n}",
     "m_PropertyGuids": [
         "82ee9f9f-e81e-4ba0-ad59-00280dc0aaf7",
-        "fd128478-943c-4869-9c72-96851e3036b7"
+        "fd128478-943c-4869-9c72-96851e3036b7",
+        "01a05e10-c6cf-43b7-ac8e-81f6dee883a0"
     ],
     "m_PropertyIds": [
         384101921,
-        -2015669562
+        -2015669562,
+        336985773
     ],
     "m_Dropdowns": [],
     "m_DropdownSelectedEntries": []
@@ -4635,6 +4640,21 @@
     "m_Property": {
         "m_Id": "50433425b2ca420cabcbd03d1a3c33f9"
     }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
+    "m_ObjectId": "733502f65c3c48a4878d9f166a4a235a",
+    "m_Id": 336985773,
+    "m_DisplayName": "test",
+    "m_SlotType": 0,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "_test",
+    "m_StageCapability": 3,
+    "m_Value": 0.0,
+    "m_DefaultValue": 0.0,
+    "m_Labels": []
 }
 
 {
