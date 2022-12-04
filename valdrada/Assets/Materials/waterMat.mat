@@ -87,13 +87,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Float: 1.04
+    - _Float: 7.65
     - _QueueControl: 0
     - _QueueOffset: 0
     - _REFEC: 0
     - _colorSpeed: 50
-    - _depth: 0.5
-    - _displacement: 0.4
+    - _depth: 0.72
+    - _displacement: 0.6
     - _emissionStrength: 1
     - _foamAmount: 1.21
     - _foamColor: 0
