@@ -91,7 +91,7 @@ Material:
     - _QueueOffset: 0
     - _REFEC: 0
     - _colorSpeed: 50
-    - _depth: 0.31
+    - _depth: 0.5
     - _displacement: 0.4
     - _emissionStrength: 1
     - _foamAmount: 1.21
@@ -104,11 +104,11 @@ Material:
     - _secondSpeed: -25
     - _secondaryNormSpeed: -25
     - _speed: 50
-    - _strength: 1.12
+    - _strength: 1.11
     m_Colors:
     - _Vector2: {r: 0, g: 0, b: 0, a: 0}
     - _colorTile: {r: 0, g: 0, b: 0, a: 0}
-    - _deepWater: {r: 0.048801444, g: 0.3301887, b: 0.2841817, a: 1}
+    - _deepWater: {r: 0.17647058, g: 0.17968865, b: 0.6117647, a: 1}
     - _emissionColor: {r: 0.09019608, g: 0.7372549, b: 0.427451, a: 0}
     - _foamColor: {r: 1, g: 1, b: 1, a: 1}
     - _mainTiling: {r: 3, g: 2, b: 0, a: 0}
