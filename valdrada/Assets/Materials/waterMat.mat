@@ -93,7 +93,7 @@ Material:
     - _REFEC: 0
     - _colorSpeed: 50
     - _depth: 0.72
-    - _displacement: 0.6
+    - _displacement: 0.3
     - _emissionStrength: 2
     - _foamAmount: 1.21
     - _foamColor: 0
