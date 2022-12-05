@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-7954477339684027571
+--- !u!114 &-3716729992288657898
 MonoBehaviour:
   m_ObjectHideFlags: 3
   m_CorrespondingSourceObject: {fileID: 0}
@@ -15,13 +15,13 @@ MonoBehaviour:
   active: 1
   threshold:
     m_OverrideState: 1
-    m_Value: 0.9
+    m_Value: 3
   intensity:
     m_OverrideState: 1
-    m_Value: 7.4
+    m_Value: 1
   scatter:
-    m_OverrideState: 1
-    m_Value: 0.244
+    m_OverrideState: 0
+    m_Value: 0.7
   clamp:
     m_OverrideState: 0
     m_Value: 65472
@@ -54,4 +54,4 @@ MonoBehaviour:
   m_Name: post processing Profile
   m_EditorClassIdentifier: 
   components:
-  - {fileID: -7954477339684027571}
+  - {fileID: -3716729992288657898}
