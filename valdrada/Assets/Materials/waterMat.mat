@@ -94,7 +94,7 @@ Material:
     - _colorSpeed: 50
     - _depth: 0.72
     - _displacement: 0.6
-    - _emissionStrength: 1
+    - _emissionStrength: 2
     - _foamAmount: 1.21
     - _foamColor: 0
     - _foamSpeed: 100
