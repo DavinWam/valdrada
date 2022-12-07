@@ -48,7 +48,7 @@ Material:
     - _ZTest: 4
     - _ZWrite: 1
     - _ZWriteControl: 0
-    - _wiggleOffset: 1.58
+    - _wiggleOffset: 0.5
     - _wiggleStrength: 0.1
     - _worldDirection: 1
     - _worldSpeed: 1
