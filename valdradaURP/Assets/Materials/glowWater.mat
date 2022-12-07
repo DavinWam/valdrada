@@ -48,7 +48,7 @@ Material:
     - _ScrolSpeed: 25
     - _alpha_Clip: 0.1
     - _emmisionMultiplier: 2
-    - _opacity: 10
+    - _opacity: -2.19
     m_Colors:
     - _Tiling: {r: 3, g: 2, b: 0, a: 0}
   m_BuildTextureStacks: []

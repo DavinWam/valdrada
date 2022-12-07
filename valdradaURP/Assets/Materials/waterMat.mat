@@ -34,6 +34,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _SampleTexture2D_37bc4e8924524d1c83f23b70e8749825_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 47761f7998148634ea1f9eea53853b19, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _baseColor:
         m_Texture: {fileID: 2800000, guid: fce4ecf6aebf1fd4882dd2ce2e3a53dd, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -56,6 +60,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _mainNormal:
         m_Texture: {fileID: 2800000, guid: 01abddd323c50d84e87072b1292ff35d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _metallicText:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _metallic_1:
+        m_Texture: {fileID: 2800000, guid: 47761f7998148634ea1f9eea53853b19, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _opacity:
@@ -94,17 +106,19 @@ Material:
     - _REFEC: 0
     - _colorSpeed: 50
     - _depth: -0.55
-    - _displacement: 0.5
+    - _displacement: 0.4
     - _emissionStrength: 20
-    - _foamAmount: 1.21
+    - _foamAmount: 5.78
     - _foamColor: 0
     - _foamSpeed: 100
     - _foamStrength: 2.29
     - _mainSpeed: 50
+    - _metallic: 5
     - _opSpeed: 25
-    - _opacity: 2.57
+    - _opacity: 2
     - _secondSpeed: -25
     - _secondaryNormSpeed: -25
+    - _smoothness: 0.96
     - _speed: 50
     - _strength: 0.2
     m_Colors:
@@ -113,11 +127,11 @@ Material:
     - _deepWater: {r: 0.17647058, g: 0.17968865, b: 0.6117647, a: 1}
     - _emissionColor: {r: 0.09019608, g: 0.7372549, b: 0.427451, a: 0}
     - _foamColor: {r: 1, g: 1, b: 1, a: 1}
-    - _mainTiling: {r: 3, g: 2, b: 0, a: 0}
-    - _opTiling: {r: 3, g: 2, b: 0, a: 0}
+    - _mainTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _opTiling: {r: 0, g: 0, b: 0, a: 0}
     - _secondNormTile: {r: 2, g: 2, b: 0, a: 0}
-    - _secondTiling: {r: 2, g: 2, b: 0, a: 0}
-    - _shallowWater: {r: 0.29263067, g: 0.6261457, b: 0.6792453, a: 0.8784314}
+    - _secondTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _shallowWater: {r: 0.29263064, g: 0.6261457, b: 0.6792453, a: 0.105882354}
     - _textureTiling: {r: 3, g: 2, b: 0, a: 0}
     - _tile: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
